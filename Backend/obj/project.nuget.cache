@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EC3lXxF8mPU=",
+  "dgSpecHash": "sJ6wk0En+os=",
   "success": true,
-  "projectFilePath": "C:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\Backend.csproj",
+  "projectFilePath": "c:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arthu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\arthu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",

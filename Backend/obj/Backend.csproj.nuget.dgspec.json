@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\Backend.csproj": {}
+    "c:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\Backend.csproj": {
+    "c:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\Backend.csproj",
+        "projectUniqueName": "c:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "C:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\Backend.csproj",
+        "projectPath": "c:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\Backend.csproj",
         "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\obj\\",
+        "outputPath": "c:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config"
