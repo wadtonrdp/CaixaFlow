@@ -85,12 +85,6 @@ O design do produto — landing page e aplicação interna — está prototipado
 
 ```
 caixaflow/
-├── design/            # Protótipos estáticos das telas (HTML/CSS)
-│   ├── index.html
-│   ├── login.html
-│   ├── dashboard.html
-│   ├── estoque.html
-│   └── pedidos.html
 ├── frontend/          # Aplicação Next.js + React + TypeScript
 │   ├── src/
 │   │   ├── app/
