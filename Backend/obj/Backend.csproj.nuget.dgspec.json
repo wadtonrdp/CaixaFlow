@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\Backend.csproj": {}
+    "C:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "c:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\Backend.csproj": {
+    "C:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\Backend.csproj",
+        "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "c:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\Backend.csproj",
+        "projectPath": "C:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\Backend.csproj",
         "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\obj\\",
+        "outputPath": "C:\\Users\\arthu\\OneDrive\\Documentos\\Projetos\\CaixaFlow\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -44,6 +44,10 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[10.0.9, )"
